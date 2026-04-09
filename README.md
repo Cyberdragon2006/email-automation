@@ -1,29 +1,27 @@
-# Web Scraper
+# Email Automation
 
-Automatically scrapes data from any website 
-and saves it to Excel in seconds.
+Automatically sends personalized bulk 
+emails from an Excel contact list.
 
 ## What it does
-- Scrapes 1000+ items automatically
-- Saves data to clean Excel file
+- Sends 100s of emails automatically
+- Personalizes each email with name
+- Reads contacts from Excel file
 - Shows live progress bar
-- Works on any website
 
 ## Technologies Used
 - Python 3
-- BeautifulSoup4
-- Requests
+- SMTP
 - OpenPyXL
+- tqdm
 
 ## How it works
-1. You give the website URL
-2. Script scrapes all data automatically
-3. Saves everything to Excel file
+1. You provide Excel file with contacts
+2. Script reads names and emails
+3. Sends personalized email to each person
 4. Done in minutes!
 
 ## Order this service
 Available on Fiverr — contact me for 
-custom scraping scripts
+custom email automation
 Mail - rishimt2021@gmail.com
-
-
